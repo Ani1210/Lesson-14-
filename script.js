@@ -43,5 +43,7 @@ const product = {
     productResolution : "1920x1080 px",
 };
 
+console.log(product);
+
 
 console.log("Product name is " + product.productTitle + "," , "product price is " + product.productPrice + ",", "product  resolution  is "+ product.productResolution + "," , " and you can buy it at " + product.shopAddresses, );
